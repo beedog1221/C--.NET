@@ -1,0 +1,12 @@
+C:\Users\Braylin\Desktop\C# code\Beehive\Beehive\bin\Debug\Beehive.exe.config
+C:\Users\Braylin\Desktop\C# code\Beehive\Beehive\bin\Debug\Beehive.exe
+C:\Users\Braylin\Desktop\C# code\Beehive\Beehive\bin\Debug\Beehive.pdb
+C:\Users\Braylin\Desktop\C# code\Beehive\Beehive\obj\Debug\Beehive.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\Beehive\Beehive\obj\Debug\Beehive.Form1.resources
+C:\Users\Braylin\Desktop\C# code\Beehive\Beehive\obj\Debug\Beehive.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\Beehive\Beehive\obj\Debug\Beehive.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\Beehive\Beehive\obj\Debug\Beehive.exe
+C:\Users\Braylin\Desktop\C# code\Beehive\Beehive\obj\Debug\Beehive.pdb
+C:\Users\Braylin\Dropbox\C# code\Beehive\Beehive\bin\Debug\Beehive.exe.config
+C:\Users\Braylin\Dropbox\C# code\Beehive\Beehive\obj\Debug\Beehive.exe
+C:\Users\Braylin\Dropbox\C# code\Beehive\Beehive\obj\Debug\Beehive.pdb

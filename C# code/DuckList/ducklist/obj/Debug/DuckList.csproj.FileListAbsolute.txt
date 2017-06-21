@@ -1,0 +1,6 @@
+C:\Users\Braylin\Dropbox\C# code\DuckList\DuckList\bin\Debug\DuckList.exe.config
+C:\Users\Braylin\Dropbox\C# code\DuckList\DuckList\bin\Debug\DuckList.exe
+C:\Users\Braylin\Dropbox\C# code\DuckList\DuckList\bin\Debug\DuckList.pdb
+C:\Users\Braylin\Dropbox\C# code\DuckList\DuckList\obj\Debug\DuckList.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Dropbox\C# code\DuckList\DuckList\obj\Debug\DuckList.exe
+C:\Users\Braylin\Dropbox\C# code\DuckList\DuckList\obj\Debug\DuckList.pdb

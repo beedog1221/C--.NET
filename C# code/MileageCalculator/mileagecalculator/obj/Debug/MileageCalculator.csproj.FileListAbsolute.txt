@@ -1,0 +1,9 @@
+C:\Users\Braylin\Desktop\C# code\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe.config
+C:\Users\Braylin\Desktop\C# code\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe
+C:\Users\Braylin\Desktop\C# code\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.pdb
+C:\Users\Braylin\Desktop\C# code\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.Form1.resources
+C:\Users\Braylin\Desktop\C# code\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.exe
+C:\Users\Braylin\Desktop\C# code\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.pdb

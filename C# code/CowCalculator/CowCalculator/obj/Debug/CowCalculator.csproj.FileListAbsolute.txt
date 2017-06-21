@@ -1,0 +1,9 @@
+C:\Users\Braylin\Desktop\C# code\CowCalculator\CowCalculator\bin\Debug\CowCalculator.exe.config
+C:\Users\Braylin\Desktop\C# code\CowCalculator\CowCalculator\bin\Debug\CowCalculator.exe
+C:\Users\Braylin\Desktop\C# code\CowCalculator\CowCalculator\bin\Debug\CowCalculator.pdb
+C:\Users\Braylin\Desktop\C# code\CowCalculator\CowCalculator\obj\Debug\CowCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\CowCalculator\CowCalculator\obj\Debug\CowCalculator.Form1.resources
+C:\Users\Braylin\Desktop\C# code\CowCalculator\CowCalculator\obj\Debug\CowCalculator.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\CowCalculator\CowCalculator\obj\Debug\CowCalculator.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\CowCalculator\CowCalculator\obj\Debug\CowCalculator.exe
+C:\Users\Braylin\Desktop\C# code\CowCalculator\CowCalculator\obj\Debug\CowCalculator.pdb

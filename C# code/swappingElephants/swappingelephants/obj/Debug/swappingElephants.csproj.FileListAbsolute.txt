@@ -1,0 +1,9 @@
+C:\Users\Braylin\Desktop\C# code\swappingElephants\swappingElephants\bin\Debug\swappingElephants.exe.config
+C:\Users\Braylin\Desktop\C# code\swappingElephants\swappingElephants\bin\Debug\swappingElephants.exe
+C:\Users\Braylin\Desktop\C# code\swappingElephants\swappingElephants\bin\Debug\swappingElephants.pdb
+C:\Users\Braylin\Desktop\C# code\swappingElephants\swappingElephants\obj\Debug\swappingElephants.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\swappingElephants\swappingElephants\obj\Debug\swappingElephants.Form1.resources
+C:\Users\Braylin\Desktop\C# code\swappingElephants\swappingElephants\obj\Debug\swappingElephants.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\swappingElephants\swappingElephants\obj\Debug\swappingElephants.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\swappingElephants\swappingElephants\obj\Debug\swappingElephants.exe
+C:\Users\Braylin\Desktop\C# code\swappingElephants\swappingElephants\obj\Debug\swappingElephants.pdb

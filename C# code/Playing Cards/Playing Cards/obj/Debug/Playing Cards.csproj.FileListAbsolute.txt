@@ -1,0 +1,9 @@
+C:\Users\Braylin\Dropbox\C# code\Playing Cards\Playing Cards\bin\Debug\Playing Cards.exe.config
+C:\Users\Braylin\Dropbox\C# code\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Dropbox\C# code\Playing Cards\Playing Cards\obj\Debug\Playing_Cards.Form1.resources
+C:\Users\Braylin\Dropbox\C# code\Playing Cards\Playing Cards\obj\Debug\Playing_Cards.Properties.Resources.resources
+C:\Users\Braylin\Dropbox\C# code\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csproj.GenerateResource.Cache
+C:\Users\Braylin\Dropbox\C# code\Playing Cards\Playing Cards\bin\Debug\Playing Cards.exe
+C:\Users\Braylin\Dropbox\C# code\Playing Cards\Playing Cards\bin\Debug\Playing Cards.pdb
+C:\Users\Braylin\Dropbox\C# code\Playing Cards\Playing Cards\obj\Debug\Playing Cards.exe
+C:\Users\Braylin\Dropbox\C# code\Playing Cards\Playing Cards\obj\Debug\Playing Cards.pdb

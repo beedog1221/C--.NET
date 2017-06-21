@@ -1,0 +1,12 @@
+C:\Users\Braylin\Desktop\C# code\partyPlanner\partyPlanner\bin\Debug\partyPlanner.exe.config
+C:\Users\Braylin\Desktop\C# code\partyPlanner\partyPlanner\bin\Debug\partyPlanner.exe
+C:\Users\Braylin\Desktop\C# code\partyPlanner\partyPlanner\bin\Debug\partyPlanner.pdb
+C:\Users\Braylin\Desktop\C# code\partyPlanner\partyPlanner\obj\Debug\partyPlanner.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\partyPlanner\partyPlanner\obj\Debug\partyPlanner.Form1.resources
+C:\Users\Braylin\Desktop\C# code\partyPlanner\partyPlanner\obj\Debug\partyPlanner.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\partyPlanner\partyPlanner\obj\Debug\partyPlanner.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\partyPlanner\partyPlanner\obj\Debug\partyPlanner.exe
+C:\Users\Braylin\Desktop\C# code\partyPlanner\partyPlanner\obj\Debug\partyPlanner.pdb
+C:\Users\Braylin\Dropbox\C# code\partyPlanner\partyPlanner\bin\Debug\partyPlanner.exe.config
+C:\Users\Braylin\Dropbox\C# code\partyPlanner\partyPlanner\obj\Debug\partyPlanner.exe
+C:\Users\Braylin\Dropbox\C# code\partyPlanner\partyPlanner\obj\Debug\partyPlanner.pdb

@@ -1,0 +1,14 @@
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\bin\Debug\DebugThis.exe.config
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\bin\Debug\DebugThis.exe
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\bin\Debug\DebugThis.pdb
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\DebugThis.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\MainWindow.g.cs
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\App.g.cs
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\DebugThis_MarkupCompile.cache
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\DebugThis_MarkupCompile.lref
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\MainWindow.baml
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\DebugThis.g.resources
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\DebugThis.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\DebugThis.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\DebugThis.exe
+C:\Users\Braylin\Desktop\C# code\DebugThis\DebugThis\obj\Debug\DebugThis.pdb

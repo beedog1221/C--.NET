@@ -1,0 +1,14 @@
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\bin\Debug\firstProject.exe.config
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\bin\Debug\firstProject.exe
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\bin\Debug\firstProject.pdb
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\firstProject.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\MainWindow.g.cs
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\App.g.cs
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\firstProject_MarkupCompile.cache
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\firstProject_MarkupCompile.lref
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\MainWindow.baml
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\firstProject.g.resources
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\firstProject.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\firstProject.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\firstProject.exe
+C:\Users\Braylin\Desktop\C# code\firstProject\firstProject\obj\Debug\firstProject.pdb

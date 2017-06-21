@@ -1,0 +1,6 @@
+C:\Users\Braylin\Dropbox\C# code\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Braylin\Dropbox\C# code\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Dropbox\C# code\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Braylin\Dropbox\C# code\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Braylin\Dropbox\C# code\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Braylin\Dropbox\C# code\Practice\Practice\obj\Debug\Practice.pdb

@@ -1,0 +1,9 @@
+C:\Users\Braylin\Desktop\C# code\sloppyJoe\sloppyJoe\bin\Debug\sloppyJoe.exe.config
+C:\Users\Braylin\Desktop\C# code\sloppyJoe\sloppyJoe\bin\Debug\sloppyJoe.exe
+C:\Users\Braylin\Desktop\C# code\sloppyJoe\sloppyJoe\bin\Debug\sloppyJoe.pdb
+C:\Users\Braylin\Desktop\C# code\sloppyJoe\sloppyJoe\obj\Debug\sloppyJoe.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\sloppyJoe\sloppyJoe\obj\Debug\sloppyJoe.Form1.resources
+C:\Users\Braylin\Desktop\C# code\sloppyJoe\sloppyJoe\obj\Debug\sloppyJoe.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\sloppyJoe\sloppyJoe\obj\Debug\sloppyJoe.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\sloppyJoe\sloppyJoe\obj\Debug\sloppyJoe.exe
+C:\Users\Braylin\Desktop\C# code\sloppyJoe\sloppyJoe\obj\Debug\sloppyJoe.pdb

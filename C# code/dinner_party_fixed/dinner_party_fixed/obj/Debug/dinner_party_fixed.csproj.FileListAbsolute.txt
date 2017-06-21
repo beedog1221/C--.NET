@@ -1,0 +1,12 @@
+C:\Users\Braylin\Desktop\C# code\dinner_party_fixed\dinner_party_fixed\bin\Debug\dinner_party_fixed.exe.config
+C:\Users\Braylin\Desktop\C# code\dinner_party_fixed\dinner_party_fixed\bin\Debug\dinner_party_fixed.exe
+C:\Users\Braylin\Desktop\C# code\dinner_party_fixed\dinner_party_fixed\bin\Debug\dinner_party_fixed.pdb
+C:\Users\Braylin\Desktop\C# code\dinner_party_fixed\dinner_party_fixed\obj\Debug\dinner_party_fixed.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\dinner_party_fixed\dinner_party_fixed\obj\Debug\dinner_party_fixed.Form1.resources
+C:\Users\Braylin\Desktop\C# code\dinner_party_fixed\dinner_party_fixed\obj\Debug\dinner_party_fixed.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\dinner_party_fixed\dinner_party_fixed\obj\Debug\dinner_party_fixed.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\dinner_party_fixed\dinner_party_fixed\obj\Debug\dinner_party_fixed.exe
+C:\Users\Braylin\Desktop\C# code\dinner_party_fixed\dinner_party_fixed\obj\Debug\dinner_party_fixed.pdb
+C:\Users\Braylin\Dropbox\C# code\dinner_party_fixed\dinner_party_fixed\bin\Debug\dinner_party_fixed.exe.config
+C:\Users\Braylin\Dropbox\C# code\dinner_party_fixed\dinner_party_fixed\obj\Debug\dinner_party_fixed.exe
+C:\Users\Braylin\Dropbox\C# code\dinner_party_fixed\dinner_party_fixed\obj\Debug\dinner_party_fixed.pdb

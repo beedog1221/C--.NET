@@ -1,0 +1,6 @@
+C:\Users\Braylin\Desktop\C# code\Hello world\Hello world\bin\Debug\Hello world.exe.config
+C:\Users\Braylin\Desktop\C# code\Hello world\Hello world\bin\Debug\Hello world.exe
+C:\Users\Braylin\Desktop\C# code\Hello world\Hello world\bin\Debug\Hello world.pdb
+C:\Users\Braylin\Desktop\C# code\Hello world\Hello world\obj\Debug\Hello world.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\Hello world\Hello world\obj\Debug\Hello world.exe
+C:\Users\Braylin\Desktop\C# code\Hello world\Hello world\obj\Debug\Hello world.pdb

@@ -1,0 +1,9 @@
+C:\Users\Braylin\Desktop\C# code\fun with Joe and Bob\fun with Joe and Bob\bin\Debug\fun with Joe and Bob.exe.config
+C:\Users\Braylin\Desktop\C# code\fun with Joe and Bob\fun with Joe and Bob\obj\Debug\fun with Joe and Bob.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\fun with Joe and Bob\fun with Joe and Bob\obj\Debug\fun_with_Joe_and_Bob.Form1.resources
+C:\Users\Braylin\Desktop\C# code\fun with Joe and Bob\fun with Joe and Bob\obj\Debug\fun_with_Joe_and_Bob.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\fun with Joe and Bob\fun with Joe and Bob\obj\Debug\fun with Joe and Bob.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\fun with Joe and Bob\fun with Joe and Bob\bin\Debug\fun with Joe and Bob.exe
+C:\Users\Braylin\Desktop\C# code\fun with Joe and Bob\fun with Joe and Bob\bin\Debug\fun with Joe and Bob.pdb
+C:\Users\Braylin\Desktop\C# code\fun with Joe and Bob\fun with Joe and Bob\obj\Debug\fun with Joe and Bob.exe
+C:\Users\Braylin\Desktop\C# code\fun with Joe and Bob\fun with Joe and Bob\obj\Debug\fun with Joe and Bob.pdb

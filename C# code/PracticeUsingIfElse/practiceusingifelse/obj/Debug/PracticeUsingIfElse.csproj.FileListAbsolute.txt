@@ -1,0 +1,14 @@
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\PracticeUsingIfElse.exe.config
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\PracticeUsingIfElse.exe
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\bin\Debug\PracticeUsingIfElse.pdb
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\PracticeUsingIfElse.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\MainWindow.g.cs
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\App.g.cs
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\PracticeUsingIfElse_MarkupCompile.cache
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\PracticeUsingIfElse_MarkupCompile.lref
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\MainWindow.baml
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\PracticeUsingIfElse.g.resources
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\PracticeUsingIfElse.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\PracticeUsingIfElse.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\PracticeUsingIfElse.exe
+C:\Users\Braylin\Desktop\C# code\PracticeUsingIfElse\PracticeUsingIfElse\obj\Debug\PracticeUsingIfElse.pdb

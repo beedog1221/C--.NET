@@ -1,0 +1,9 @@
+C:\Users\Braylin\Desktop\C# code\TypingGame\TypingGame\bin\Debug\TypingGame.exe.config
+C:\Users\Braylin\Desktop\C# code\TypingGame\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\Braylin\Desktop\C# code\TypingGame\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\Braylin\Desktop\C# code\TypingGame\TypingGame\obj\Debug\TypingGame.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\TypingGame\TypingGame\obj\Debug\TypingGame.Form1.resources
+C:\Users\Braylin\Desktop\C# code\TypingGame\TypingGame\obj\Debug\TypingGame.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\TypingGame\TypingGame\obj\Debug\TypingGame.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\TypingGame\TypingGame\obj\Debug\TypingGame.exe
+C:\Users\Braylin\Desktop\C# code\TypingGame\TypingGame\obj\Debug\TypingGame.pdb

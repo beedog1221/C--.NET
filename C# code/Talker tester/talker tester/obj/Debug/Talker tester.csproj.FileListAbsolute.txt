@@ -1,0 +1,9 @@
+C:\Users\Braylin\Desktop\C# code\Talker tester\Talker tester\bin\Debug\Talker tester.exe.config
+C:\Users\Braylin\Desktop\C# code\Talker tester\Talker tester\bin\Debug\Talker tester.exe
+C:\Users\Braylin\Desktop\C# code\Talker tester\Talker tester\bin\Debug\Talker tester.pdb
+C:\Users\Braylin\Desktop\C# code\Talker tester\Talker tester\obj\Debug\Talker tester.csprojResolveAssemblyReference.cache
+C:\Users\Braylin\Desktop\C# code\Talker tester\Talker tester\obj\Debug\Talker_tester.Form1.resources
+C:\Users\Braylin\Desktop\C# code\Talker tester\Talker tester\obj\Debug\Talker_tester.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\Talker tester\Talker tester\obj\Debug\Talker tester.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\Talker tester\Talker tester\obj\Debug\Talker tester.exe
+C:\Users\Braylin\Desktop\C# code\Talker tester\Talker tester\obj\Debug\Talker tester.pdb

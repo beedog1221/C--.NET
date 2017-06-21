@@ -1,0 +1,8 @@
+C:\Users\Braylin\Desktop\C# code\chpt4\chpt4\bin\Debug\chpt4.exe.config
+C:\Users\Braylin\Desktop\C# code\chpt4\chpt4\obj\Debug\chpt4.Form1.resources
+C:\Users\Braylin\Desktop\C# code\chpt4\chpt4\obj\Debug\chpt4.Properties.Resources.resources
+C:\Users\Braylin\Desktop\C# code\chpt4\chpt4\obj\Debug\chpt4.csproj.GenerateResource.Cache
+C:\Users\Braylin\Desktop\C# code\chpt4\chpt4\bin\Debug\chpt4.exe
+C:\Users\Braylin\Desktop\C# code\chpt4\chpt4\bin\Debug\chpt4.pdb
+C:\Users\Braylin\Desktop\C# code\chpt4\chpt4\obj\Debug\chpt4.exe
+C:\Users\Braylin\Desktop\C# code\chpt4\chpt4\obj\Debug\chpt4.pdb
